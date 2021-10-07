@@ -1,0 +1,7 @@
+INSERT INTO items (card,cardBackgroundImage,itemImg,companyLogo,salePercent,price,currency,endDate,endTime,tabColor,buttonColor,pcs,prize,title) VALUES (1,'https://i.ibb.co/BTdnx2h/solid-green-background.jpg','https://i.ibb.co/CMRLVHb/nike1.png','https://i.ibb.co/WDVLfJm/nike-logo.png',20,70.60,'KD','25/12/2021','13:15:00','#6ECB63','#B1E693',22,'100','Answer and Win');
+
+INSERT INTO items (card,cardBackgroundImage,itemImg,companyLogo,salePercent,price,currency,endDate,endTime,tabColor,buttonColor,pcs,prize,title) VALUES (2,'https://i.ibb.co/BTdnx2h/solid-green-background.jpg','https://i.ibb.co/CMRLVHb/nike1.png','https://i.ibb.co/WDVLfJm/nike-logo.png',20,70.60,'KD','25/12/2021','13:15:00','#6ECB63','#B1E693',22,'100','Answer and Win');
+
+INSERT INTO items (card,cardBackgroundImage,itemImg,companyLogo,salePercent,price,currency,endDate,endTime,tabColor,buttonColor,pcs,prize,title) VALUES (3,'https://i.ibb.co/BTdnx2h/solid-green-background.jpg','https://i.ibb.co/CMRLVHb/nike1.png','https://i.ibb.co/WDVLfJm/nike-logo.png',20,70.60,'KD','25/12/2021','13:15:00','#6ECB63','#B1E693',22,'100','Answer and Win');
+
+INSERT INTO items (card,cardBackgroundImage,itemImg,companyLogo,salePercent,price,currency,endDate,endTime,tabColor,buttonColor,pcs,prize,title) VALUES (4,'https://i.ibb.co/BTdnx2h/solid-green-background.jpg','https://i.ibb.co/CMRLVHb/nike1.png','https://i.ibb.co/WDVLfJm/nike-logo.png',20,70.60,'KD','25/12/2021','13:15:00','#6ECB63','#B1E693',22,'100','Answer and Win');
